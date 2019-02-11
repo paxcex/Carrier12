@@ -1,0 +1,10 @@
+Package: com.pxcex.carrier12
+Name: carrier12
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Change Carrier name IOS 12.
+Maintainer: pxcex
+Author: pxcex
+Section: Tweaks
+Version: 0.0.1-4+debug
+Installed-Size: 324
